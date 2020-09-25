@@ -69,6 +69,8 @@
     <string name="selinux_status_disabled">Vypnuto</string>
     <string name="selinux_status_permissive">Mírný</string>
     <string name="selinux_status_enforcing">Vynucený</string>
+    <!-- Lockscreen timeout -->
+    <string name="lockscreen_timeout_title">Časový limit zámku obrazovky</string>
     <!-- Enable/Disable Screenshot sound -->
     <string name="screenshot_sound_title">Zvuky při snímku obrazovky</string>
     <!-- Ambient Display wake gestures/music ticker -->
@@ -84,4 +86,29 @@
     <string name="vibration_on_charge_state_changed_title">Vibrovat při připojení USB</string>
     <!-- Notification log -->
     <string name="notification_log_summary">Zobrazit protokol historie oznámení</string>
+    <!-- Touch sensitivity -->
+    <string name="touch_sensitivity_summary">Vylepšuje dotyk při použití ochranného skla/fólie</string>
+    <string name="touch_sensitivity_title">Zvýšení citlivosti dotyku</string>
+    <string name="keywords_touch_sensitivity">dotyk, citlivost, citlivý, ochrana obrazovky, film, reagující a reakce</string>
+    <!-- Quick statusbar header & statusbar battery percentage -->
+    <string name="battery_percentage_category_title">Procenta baterie</string>
+    <string name="sb_battery_percentage">Stavový řádek</string>
+    <string name="qs_battery_percentage">Záhlaví stavového řádku</string>
+    <string name="qs_battery_percentage_description">Zobrazit procento nabití baterie v záhlaví QS</string>
+    <!-- Custom light color -->
+    <string name="custom_light_title">Barva kontrolky</string>
+    <string name="custom_light_on_time_title">Doba zapnutí kontrolky LED během pulsování (ms)</string>
+    <string name="custom_light_off_time_title">Doba vypnutí kontrolky LED během pulsování (ms)</string>
+    <string name="value_equals_default">předvolba</string>
+    <!-- Battery light customization -->
+    <string name="battery_light_settings_pref_title">Kontrolka nabíjení baterie</string>
+    <string name="battery_light_allow_on_dnd_title">Světelná signalizace baterie v režimu „Nerušit“</string>
+    <string name="battery_light_low_blinking_title">Blikat při nízkém stavu baterie</string>
+    <string name="battery_light_cat">Barva kontrolky baterie při nabíjení</string>
+    <string name="battery_light_low_color">Nízký stav baterie</string>
+    <string name="battery_light_medium_color">Střední stav baterie</string>
+    <string name="battery_light_full_color">Téměř nabito</string>
+    <string name="battery_light_reallyfull_color">Plně nabito (100%)</string>
+    <!-- Custom device hostname -->
+    <string name="device_hostname">Hostitelské jméno zařízení</string>
 </resources>
